@@ -1,24 +1,25 @@
-body,
-body * {
-margin: 0;
-padding: 0;
-vertical-align: top;
-box-sizing: border-box;
-font-family: 'Roboto', sans-serif;
-}
+body {
+    background-color: #54BEDC;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    }
 .container {
     display: inline-block;
     width: 800px;
     margin-top: 100px;
     margin-left: calc((100% - 800px) / 2);
-    background-color: chartreuse;
 }
 
 .left-column {
+    background: url(./kalnas.jpg);
+    background-size: cover;
     display: inline-block;
     float: left;
     width: 40%;
-    padding: 10px;
+    margin-top: 20px;
     background-color: #3289D9;
 }
 .title {
@@ -34,7 +35,7 @@ font-family: 'Roboto', sans-serif;
     display: inline-block;
     float: left;
     width: 60%;
-    padding: 60px;
+    /* padding: 60px; */
     padding-bottom: 60px;
-    background-color: #999fff;
+    background-color: #fff;
     }
