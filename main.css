@@ -1,11 +1,6 @@
 body {
     background-color: #54BEDC;
-    margin: 0;
-    padding: 0;
-    vertical-align: top;
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
-    }
+}
 .container {
     display: inline-block;
     width: 800px;
@@ -34,8 +29,9 @@ body {
     .right-column {
     display: inline-block;
     float: left;
+    box-sizing: border-box;
     width: 60%;
-    /* padding: 60px; */
+    padding: 60px;
     padding-bottom: 60px;
     background-color: #fff;
     }
