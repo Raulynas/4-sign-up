@@ -1,6 +1,19 @@
 .btn {
     display: inline-block;
     padding: 10px;
-    
-
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    line-height: 20px;
+    background-color: #015EDA;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.btn:focus {
+    outline: none;
+}
+:focus {
+    outline: none;
 }
