@@ -9,7 +9,7 @@ body {
 }
 
 .left-column {
-    background: url(./kalnas.jpg);
+    background: url(./img/hill.jpg);
     background-size: cover;
     display: inline-block;
     float: left;
@@ -49,31 +49,4 @@ body {
         .close {
             display: inline-block;
         }
-        form {display: inline-block;
-            width: 100%;
-        }
-            .form-row {display: inline-block;
-                width: 100%;
-                margin-bottom: 30px;
-            }
-            .form-row:last-of-type {
-                margin-bottom: 0;
-            }
-            
-                label {
-                    display: inline-block;
-                    width: 100%;
-                }
-                input {
-                    display: inline-block;
-                    width: 100%;
-                }
-                .btn {
-                    display: inline-block;
-                }
-
-                .form-row > span {
-                    display: inline-block;}
-                .form-row > a {
-                    display: inline-block;}
 
