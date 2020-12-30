@@ -26,9 +26,16 @@ form {
 
         .form-row > span {
             display: inline-block;
+            line-height: 20px;
+            padding: 10px;
+            margin-left: 10px;
+            font-size: 18px;
         }
         .form-row > a {
             display: inline-block;
+            line-height: 20px;
+            padding: 10px;
+            font-size: 18px;
         }
         :focus {
             outline: none;
