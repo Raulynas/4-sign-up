@@ -1,6 +1,6 @@
 # Sign up
 
-Sign up website project_
+Sign up website project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
